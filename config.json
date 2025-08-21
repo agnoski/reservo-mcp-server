@@ -1,5 +1,5 @@
 {
   "backend_url": "http://localhost:3001",
-  "default_flat_id": "1",
+  "default_entity_id": "1",
   "timeout_seconds": 30
 }
